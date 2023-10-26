@@ -36,7 +36,7 @@ The player controlling the white pieces moves first, followed by the player cont
 None of players moves can make their kings in check. The object of the game is to checkmate the opponent's king,
 whereby the king is under immediate attack (in "check") and there is no way for it to escape.
 There are also several ways a game can end in a draw.
-There are implemented all possible ways to win (checkmate) and seweral draw conditions:
+There are implemented all possible ways to win (checkmate) and several draw conditions:
 Dead position for king vs king; bishop,king vs king and knight,king vs king.
 50-moves rule
 Threefold position
